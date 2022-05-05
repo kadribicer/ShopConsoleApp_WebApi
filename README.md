@@ -9,6 +9,7 @@
 -	For every $100 on the bill, there would be a $ 5 discount (e.g. for $ 990, you get $ 45 as a discount).
 -	The percentage based discounts do not apply on groceries.
 -	A user can get only one of the percentage based discounts on a bill.
+- Create a RESTful API that returns the final invoice amount including discount when an invoice is issued.
 
 </details>
 
@@ -25,9 +26,9 @@ It is a small console application created to simulate store discounts. Used tech
 <h3>Materials used for the test</h3>
 
 - XUnit Unit tests
-- SonarQube
-- Postman (API Tests)
-- Swagger (API Tests)
+- SonarQube (Screenshot added)
+- Postman (API Tests) (Screenshot added.)
+- Swagger (API Tests) (Screenshot added.)
 - VS Code Analyzer
 
 #
@@ -59,3 +60,5 @@ Net amount payable
 ```
 382.5
 ```
+
+The net amount to be paid is calculated according to the discount rates given in the scenario and the users.
