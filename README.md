@@ -62,3 +62,11 @@ Net amount payable
 ```
 
 The net amount to be paid is calculated according to the discount rates given in the scenario and the users.
+
+#
+
+<h3>Other Information</h3>
+
+
+- The given scenario was developed not only as a console application but also as a web application.
+- You can access the web application from the link here. [API Endpoint](https://github.com/kadribicer/ShopWebApp_WebApi).
