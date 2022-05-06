@@ -69,4 +69,4 @@ The net amount to be paid is calculated according to the discount rates given in
 
 
 - The given scenario was developed not only as a console application but also as a web application.
-- You can access the web application from the link here. [API Endpoint](https://github.com/kadribicer/ShopWebApp_WebApi).
+- You can access the web application from the link here. [Web Application](https://github.com/kadribicer/ShopWebApp_WebApi).
